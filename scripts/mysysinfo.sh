@@ -4,6 +4,8 @@
 #
 # This script does a deep introspection of your system 
 # and then generates a report file.
+# Use this detailed report to check for changes after 
+# any iterations, patches, changes, upgrades, etc
 #
 ###################################
 #
@@ -73,6 +75,21 @@ function hwscanner()
 # hw map
 
 }
+
+function mystorage()
+{
+
+# list defined filesystems
+
+# list mounted filesystems
+
+# list block devices
+
+# list boot info
+
+}
+
+
 
 function swscanner()
 {
