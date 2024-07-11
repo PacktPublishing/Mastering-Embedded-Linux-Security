@@ -1,0 +1,24 @@
+# ID definition of the repository
+[my-custom-stuff]
+
+# NAME of the repository
+name=my-custom-stuff
+
+# the base URL - update this for your systems information 
+baseurl=http://bm02.local/myapp-for-x86_64-rpms/
+
+# Repository enabled =1 ... disabled =0
+enabled=1
+
+# setting up a gpg key for the repo is a great idea if public facing
+# repo gpg check enabled =1 disabled =0
+repo_gpgcheck=0
+
+# definition for the gpg key for the repo itself (if enabled)
+# example formatting:
+# gpgkey=file:///(path to file)
+# (or)
+# gpgkey=(URL to gpgkey)
+#
+
+
