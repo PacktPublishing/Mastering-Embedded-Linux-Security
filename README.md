@@ -9,7 +9,13 @@ Originally titled: Mastering Embedded Linux Systems Security
 ( This repository will contain scripts and code examples 
 from the book along with all the stuff we couldn't fit -- plus much more)
 
-#Table of contents:  (by folder)
+#About The Book
+
+
+
+
+
+#Repository Table of contents:  (by folder)
 
 documentation -- this folder contains additional informational resources and documentation
 
